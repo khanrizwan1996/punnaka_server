@@ -84,7 +84,7 @@ $pressReleaseListingHeaderMenu = $pressReleaseHeaderObj->getpressReleaseListingH
                         <li><a style="color: white;" href="{{url('/')}}">Home</a></li>
 
                         <li  style="color: white;">|</li>
-                        <li><a style="color: white;" href="write-for-us">Write For Us RK</a></li>
+                        <li><a style="color: white;" href="write-for-us">Write For Us</a></li>
 
                         {{-- <li><a  style="color: white;" href="{{ url('product-service') }}">Product & Service</a></li>    --}}
 

@@ -81,7 +81,7 @@ $pressReleaseListingHeaderMenu = $pressReleaseHeaderObj->getpressReleaseListingH
                <div class="col-md-8 col-sm-12 col-xs-12">
                   <div class="widget no-border m-0 mr-15 pull-left flip sm-pull-none sm-text-center">
                      <ul class="list-inline font-13 sm-text-center mt-5" style="font-weight: bolder; font-size:16px;">
-                        <li><a style="color: white;" href="{{url('/')}}">Home</a></li>
+                        <li><a style="color: white;" href="{{url('/')}}">Home Rizwan Khan</a></li>
 
                         <li  style="color: white;">|</li>
                         <li><a style="color: white;" href="write-for-us">Write For Us</a></li>
